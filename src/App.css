@@ -7,7 +7,7 @@ body {
 }
 
 .App {
-  padding: 20px;
+  padding: 20px 15%;
 }
 .logo {
   width: 238px;
@@ -21,9 +21,9 @@ hr {
   border-style: solid;
   border-width: 1px; /* adjust the thickness as needed */
   color: #ebb04d;
-  margin: 0 15% 0 15%;
 }
 h2 {
   color: #ebb04d;
   font-weight: lighter;
+  text-align: left;
 }
