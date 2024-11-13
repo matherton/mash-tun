@@ -9,7 +9,7 @@ function App() {
       <img src={logo} alt="logo" className="logo" />
       <hr />
       <h1>MENU</h1>
-      <MenuList />
+      <MenuList key={"burgers"} />
     </div>
   );
 }
