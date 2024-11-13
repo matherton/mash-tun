@@ -1,13 +1,14 @@
 import React from "react";
 import MenuList from "./components/MenuList";
+import logo from "./assets/images/logo.jpg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>The Mash Tun</h1>
+      <img src={logo} alt="logo" className="logo" />
       <hr />
-      <h2>MENU</h2>
+      <h1>MENU</h1>
       <MenuList />
     </div>
   );
