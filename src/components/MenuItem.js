@@ -3,7 +3,6 @@ import "../MenuItem.css";
 import burger from "../assets/images/burger-resized.jpg";
 
 const MenuItem = ({ item }) => {
-  console.log(item.image);
   return (
     <div className="menu-item">
       <img src={burger} alt={item.name} className="menu-img" />
