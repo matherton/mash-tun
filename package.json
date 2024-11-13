@@ -1,5 +1,6 @@
 {
   "name": "pub-menu",
+  "homepage": "https://matherton.github.io/mash-tun/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
