@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mash-tun/static/css/main.9a73f952.css",
-    "main.js": "/mash-tun/static/js/main.22ba051b.js",
+    "main.js": "/mash-tun/static/js/main.4306c3cc.js",
     "static/media/burger-resized.jpg": "/mash-tun/static/media/burger-resized.b5982a030b63a3505f8f.jpg",
     "static/media/logo.jpg": "/mash-tun/static/media/logo.b4910e86882c58d2fd40.jpg",
     "index.html": "/mash-tun/index.html",
     "main.9a73f952.css.map": "/mash-tun/static/css/main.9a73f952.css.map",
-    "main.22ba051b.js.map": "/mash-tun/static/js/main.22ba051b.js.map"
+    "main.4306c3cc.js.map": "/mash-tun/static/js/main.4306c3cc.js.map"
   },
   "entrypoints": [
     "static/css/main.9a73f952.css",
-    "static/js/main.22ba051b.js"
+    "static/js/main.4306c3cc.js"
   ]
 }
