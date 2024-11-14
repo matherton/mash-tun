@@ -5,9 +5,9 @@ import MenuItem from "./MenuItem";
 const MenuList = () => {
   return (
     <>
-      <h2>{menuData.title}</h2>
+      <h2>{menuData.burgers.title}</h2>
       <div className="menu-list">
-        {menuData.menuItems.map((item) => (
+        {menuData.burgers.menuItems.map((item) => (
           <MenuItem key={item.id} item={item} />
         ))}
       </div>
