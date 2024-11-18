@@ -18,6 +18,12 @@
   text-align: left;
 }
 
+.middle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .menu-img {
   width: 100%;
   height: 200px;

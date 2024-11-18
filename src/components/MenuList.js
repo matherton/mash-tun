@@ -3,6 +3,7 @@ import { menuData } from "../data/menuData";
 import MenuItem from "./MenuItem";
 
 const MenuList = () => {
+  console.log(menuData);
   return (
     <>
       <h2>{menuData.small.title}</h2>
