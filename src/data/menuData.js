@@ -103,4 +103,16 @@ export const menuData = {
       },
     ],
   },
+  soup: {
+    title: "Soup",
+    menuItems: [
+      {
+        id: 1,
+        name: "Soup of the day",
+        price: "£6.20",
+        image: "/images/croquettes.jpg",
+        description: "various varieties: Mushroom, Truffle, Spanish Ham.",
+      },
+    ],
+  },
 };
