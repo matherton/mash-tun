@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ae6cf3a.css",
-    "main.js": "/static/js/main.98b404e1.js",
-    "static/media/pescadito-frito.jpg": "/static/media/pescadito-frito.3b1c1467a80149b3f43e.jpg",
-    "static/media/nachos.jpg": "/static/media/nachos.1e0a54a1267c4f430584.jpg",
-    "static/media/spanish-burger.jpg": "/static/media/spanish-burger.9b6a4f657e8f8fc43e87.jpg",
-    "static/media/croquettes.jpg": "/static/media/croquettes.3762a902468c9d6e60d4.jpg",
-    "static/media/logo.jpg": "/static/media/logo.b4910e86882c58d2fd40.jpg",
-    "index.html": "/index.html",
-    "main.9ae6cf3a.css.map": "/static/css/main.9ae6cf3a.css.map",
-    "main.98b404e1.js.map": "/static/js/main.98b404e1.js.map"
+    "main.css": "/mash-tun/static/css/main.9ae6cf3a.css",
+    "main.js": "/mash-tun/static/js/main.00486dad.js",
+    "static/media/pescadito-frito.jpg": "/mash-tun/static/media/pescadito-frito.3b1c1467a80149b3f43e.jpg",
+    "static/media/nachos.jpg": "/mash-tun/static/media/nachos.1e0a54a1267c4f430584.jpg",
+    "static/media/soup-of-day.jpg": "/mash-tun/static/media/soup-of-day.f004a167ef112654c3cd.jpg",
+    "static/media/spanish-burger.jpg": "/mash-tun/static/media/spanish-burger.9b6a4f657e8f8fc43e87.jpg",
+    "static/media/croquettes.jpg": "/mash-tun/static/media/croquettes.3762a902468c9d6e60d4.jpg",
+    "static/media/logo.jpg": "/mash-tun/static/media/logo.b4910e86882c58d2fd40.jpg",
+    "index.html": "/mash-tun/index.html",
+    "main.9ae6cf3a.css.map": "/mash-tun/static/css/main.9ae6cf3a.css.map",
+    "main.00486dad.js.map": "/mash-tun/static/js/main.00486dad.js.map"
   },
   "entrypoints": [
     "static/css/main.9ae6cf3a.css",
-    "static/js/main.98b404e1.js"
+    "static/js/main.00486dad.js"
   ]
 }
