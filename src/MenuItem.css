@@ -34,11 +34,13 @@
 .menu-item h3 {
   margin: 10px 0;
   color: #444;
+  text-decoration: underline;
 }
 
 .menu-item p {
   font-size: 0.9rem;
   color: #666;
+  padding-bottom: 0.5rem;
 }
 
 .price {
