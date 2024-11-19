@@ -4,6 +4,7 @@ import spanishBurger from "../assets/images/food-images/spanish-burger.jpg";
 import nachos from "../assets/images/food-images/nachos.jpg";
 import croquettes from "../assets/images/food-images/croquettes.jpg";
 import frito from "../assets/images/food-images/pescadito-frito.jpg";
+import soupODay from "../assets/images/food-images/soup-of-day.jpg";
 
 const MenuItem = ({ item }) => {
   return (
@@ -18,7 +19,7 @@ const MenuItem = ({ item }) => {
         <div className="menu-img middle">image not yet available</div>
       )}
       {item.name === "Soup of the day" && (
-        <img src="soup-of-day.jpg" alt={item.name} className="menu-img" />
+        <img src={`${soupODay}`} alt={item.name} className="menu-img" />
       )}
       {item.name === "French Fries" && (
         <div className="menu-img middle">image not yet available</div>

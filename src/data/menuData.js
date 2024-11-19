@@ -35,7 +35,7 @@ export const menuData = {
         id: 1,
         name: "Soup of the day",
         price: "£4.75",
-        image: "/images/soup-o-day.jpg",
+        image: "/assets/images/soup-o-day.jpg",
         description: "various daily varieties of soup.",
       },
       {
