@@ -35,7 +35,7 @@ export const menuData = {
         id: 1,
         name: "Soup of the day",
         price: "£4.75",
-        image: "/assets/images/burger-resized.jpg",
+        image: "/images/soup-o-day.jpg",
         description: "various daily varieties of soup.",
       },
       {
@@ -43,7 +43,7 @@ export const menuData = {
         name: "French Fries",
         price: "£4.50",
         image: "/assets/images/burger-resized.jpg",
-        description: "",
+        description: "choice of sauces.",
       },
       {
         id: 3,
@@ -97,18 +97,6 @@ export const menuData = {
       {
         id: 1,
         name: "Croquettes",
-        price: "£6.20",
-        image: "/images/croquettes.jpg",
-        description: "various varieties: Mushroom, Truffle, Spanish Ham.",
-      },
-    ],
-  },
-  soup: {
-    title: "Soup",
-    menuItems: [
-      {
-        id: 1,
-        name: "Soup of the day",
         price: "£6.20",
         image: "/images/croquettes.jpg",
         description: "various varieties: Mushroom, Truffle, Spanish Ham.",

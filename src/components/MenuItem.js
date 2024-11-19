@@ -6,7 +6,6 @@ import croquettes from "../assets/images/food-images/croquettes.jpg";
 import frito from "../assets/images/food-images/pescadito-frito.jpg";
 
 const MenuItem = ({ item }) => {
-  console.log(item.name);
   return (
     <div className="menu-item">
       {item.name === "Beef Spanish burger" && (
@@ -19,12 +18,11 @@ const MenuItem = ({ item }) => {
         <div className="menu-img middle">image not yet available</div>
       )}
       {item.name === "Soup of the day" && (
-        <div className="menu-img middle">image not yet available</div>
+        <img src="soup-of-day.jpg" alt={item.name} className="menu-img" />
       )}
       {item.name === "French Fries" && (
         <div className="menu-img middle">image not yet available</div>
       )}
-
       {item.name === "Nachos" && (
         <img src={`${nachos}`} alt={item.name} className="menu-img" />
       )}
