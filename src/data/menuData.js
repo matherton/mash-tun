@@ -85,9 +85,10 @@ export const menuData = {
       {
         id: 1,
         name: "Pescadito frito",
-        price: "£4.75",
+        price: "£7.95",
         image: "/assets/images/burger-resized.jpg",
-        description: "various daily varieties of soup.",
+        description:
+          "deep fried crispy fish & fries with lemon and garlic mayonnaise.",
       },
     ],
   },
