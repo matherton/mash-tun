@@ -12,18 +12,18 @@ const MenuItem = ({ item }) => {
       {item.name === "Beef Spanish burger" && (
         <img src={`${spanishBurger}`} alt={item.name} className="menu-img" />
       )}
-      {item.name === "Mash Tun burger" && (
+      {/* {item.name === "Mash Tun burger" && (
         <div className="menu-img middle">image not yet available</div>
       )}
       {item.name === "Vegetarian burger" && (
         <div className="menu-img middle">image not yet available</div>
-      )}
+      )} */}
       {item.name === "Soup of the day" && (
         <img src={`${soupODay}`} alt={item.name} className="menu-img" />
       )}
-      {item.name === "French Fries" && (
+      {/* {item.name === "French Fries" && (
         <div className="menu-img middle">image not yet available</div>
-      )}
+      )} */}
       {item.name === "Nachos" && (
         <img src={`${nachos}`} alt={item.name} className="menu-img" />
       )}
@@ -38,7 +38,7 @@ const MenuItem = ({ item }) => {
 
       <h3>{item.name}</h3>
       <p>{item.description}</p>
-      <span className="price">{item.price}</span>
+      {/* <span className="price">{item.price}</span> */}
     </div>
   );
 };

@@ -10,7 +10,7 @@ export const menuData = {
         description:
           "onion, lettuce, tomato, Spanish ham, parmesan & asparagus.",
       },
-      {
+      /* {
         id: 2,
         name: "Mash Tun burger",
         price: "£15.00",
@@ -25,7 +25,7 @@ export const menuData = {
         image: "/assets/images/burger-resized.jpg",
         description:
           "onion, lettuce, tomato, mushroom parmesan & pepper sauce.",
-      },
+      }, */
     ],
   },
   small: {
@@ -38,7 +38,7 @@ export const menuData = {
         image: "/assets/images/soup-o-day.jpg",
         description: "various daily varieties of soup.",
       },
-      {
+      /*   {
         id: 2,
         name: "French Fries",
         price: "£4.50",
@@ -51,7 +51,7 @@ export const menuData = {
         price: "£13.00",
         image: "/assets/images/burger-resized.jpg",
         description: "with truffle and cheese.",
-      },
+      }, */
     ],
   },
   nachos: {

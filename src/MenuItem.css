@@ -40,7 +40,7 @@
 .menu-item p {
   font-size: 0.9rem;
   color: #666;
-  padding-bottom: 0.5rem;
+  /* padding-bottom: 0.5rem; */
 }
 
 .price {
