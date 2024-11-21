@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mash-tun/static/css/main.17693d59.css",
-    "main.js": "/mash-tun/static/js/main.6eefeda9.js",
+    "main.css": "/mash-tun/static/css/main.56712d66.css",
+    "main.js": "/mash-tun/static/js/main.c1fa4ec8.js",
     "static/media/pescadito-frito.jpg": "/mash-tun/static/media/pescadito-frito.3b1c1467a80149b3f43e.jpg",
     "static/media/nachos.jpg": "/mash-tun/static/media/nachos.1e0a54a1267c4f430584.jpg",
     "static/media/soup-of-day.jpg": "/mash-tun/static/media/soup-of-day.f004a167ef112654c3cd.jpg",
@@ -9,11 +9,11 @@
     "static/media/croquettes.jpg": "/mash-tun/static/media/croquettes.3762a902468c9d6e60d4.jpg",
     "static/media/logo.jpg": "/mash-tun/static/media/logo.b4910e86882c58d2fd40.jpg",
     "index.html": "/mash-tun/index.html",
-    "main.17693d59.css.map": "/mash-tun/static/css/main.17693d59.css.map",
-    "main.6eefeda9.js.map": "/mash-tun/static/js/main.6eefeda9.js.map"
+    "main.56712d66.css.map": "/mash-tun/static/css/main.56712d66.css.map",
+    "main.c1fa4ec8.js.map": "/mash-tun/static/js/main.c1fa4ec8.js.map"
   },
   "entrypoints": [
-    "static/css/main.17693d59.css",
-    "static/js/main.6eefeda9.js"
+    "static/css/main.56712d66.css",
+    "static/js/main.c1fa4ec8.js"
   ]
 }
