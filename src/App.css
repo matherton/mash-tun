@@ -1,5 +1,7 @@
+@import "./fonts.css";
+
 body {
-  font-family: Tahoma, Arial, Helvetica, sans-serif;
+  font-family: Challet, Tahoma, Arial, Helvetica, sans-serif;
   background-color: #192b39;
   text-align: center;
   margin: 0;
