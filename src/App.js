@@ -1,4 +1,5 @@
 import React from "react";
+import Header from "./components/Header";
 import MenuList from "./components/MenuList";
 import logo from "./assets/images/logo.jpg";
 import "./App.css";
@@ -6,9 +7,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <img src={logo} alt="logo" className="logo" />
-      <hr />
-      <h1>MENU</h1>
+      <Header />
       <MenuList key={"burgers"} />
     </div>
   );
