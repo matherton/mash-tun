@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mash-tun/static/css/main.9c789dc2.css",
-    "main.js": "/mash-tun/static/js/main.c1fa4ec8.js",
+    "main.css": "/mash-tun/static/css/main.b694edb3.css",
+    "main.js": "/mash-tun/static/js/main.84f4a82b.js",
     "static/media/pescadito-frito.jpg": "/mash-tun/static/media/pescadito-frito.3b1c1467a80149b3f43e.jpg",
     "static/media/nachos.jpg": "/mash-tun/static/media/nachos.1e0a54a1267c4f430584.jpg",
     "static/media/soup-of-day.jpg": "/mash-tun/static/media/soup-of-day.f004a167ef112654c3cd.jpg",
@@ -10,11 +10,11 @@
     "static/media/Chalet-Paris-Nineteen-Eighty.otf": "/mash-tun/static/media/Chalet-Paris-Nineteen-Eighty.85202993b6c9eeb6e80d.otf",
     "static/media/logo.jpg": "/mash-tun/static/media/logo.b4910e86882c58d2fd40.jpg",
     "index.html": "/mash-tun/index.html",
-    "main.9c789dc2.css.map": "/mash-tun/static/css/main.9c789dc2.css.map",
-    "main.c1fa4ec8.js.map": "/mash-tun/static/js/main.c1fa4ec8.js.map"
+    "main.b694edb3.css.map": "/mash-tun/static/css/main.b694edb3.css.map",
+    "main.84f4a82b.js.map": "/mash-tun/static/js/main.84f4a82b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c789dc2.css",
-    "static/js/main.c1fa4ec8.js"
+    "static/css/main.b694edb3.css",
+    "static/js/main.84f4a82b.js"
   ]
 }
