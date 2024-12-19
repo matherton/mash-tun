@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.f737f05e.css",
-    "main.js": "./static/js/main.5bb3d285.js",
-    "static/media/pescadito-frito.jpg": "./static/media/pescadito-frito.3b1c1467a80149b3f43e.jpg",
-    "static/media/nachos.jpg": "./static/media/nachos.1e0a54a1267c4f430584.jpg",
-    "static/media/soup-of-day.jpg": "./static/media/soup-of-day.f004a167ef112654c3cd.jpg",
-    "static/media/spanish-burger.jpg": "./static/media/spanish-burger.9b6a4f657e8f8fc43e87.jpg",
-    "static/media/croquettes.jpg": "./static/media/croquettes.3762a902468c9d6e60d4.jpg",
-    "static/media/Chalet-Paris-Nineteen-Eighty.otf": "./static/media/Chalet-Paris-Nineteen-Eighty.85202993b6c9eeb6e80d.otf",
-    "static/media/logo.jpg": "./static/media/logo.b4910e86882c58d2fd40.jpg",
-    "index.html": "./index.html",
-    "main.f737f05e.css.map": "./static/css/main.f737f05e.css.map",
-    "main.5bb3d285.js.map": "./static/js/main.5bb3d285.js.map"
+    "main.css": "/static/css/main.35cb80a5.css",
+    "main.js": "/static/js/main.21b188db.js",
+    "static/media/pescadito-frito.jpg": "/static/media/pescadito-frito.3b1c1467a80149b3f43e.jpg",
+    "static/media/nachos.jpg": "/static/media/nachos.1e0a54a1267c4f430584.jpg",
+    "static/media/soup-of-day.jpg": "/static/media/soup-of-day.f004a167ef112654c3cd.jpg",
+    "static/media/spanish-burger.jpg": "/static/media/spanish-burger.9b6a4f657e8f8fc43e87.jpg",
+    "static/media/croquettes.jpg": "/static/media/croquettes.3762a902468c9d6e60d4.jpg",
+    "static/media/Chalet-Paris-Nineteen-Eighty.otf": "/static/media/Chalet-Paris-Nineteen-Eighty.85202993b6c9eeb6e80d.otf",
+    "static/media/logo.jpg": "/static/media/logo.b4910e86882c58d2fd40.jpg",
+    "index.html": "/index.html",
+    "main.35cb80a5.css.map": "/static/css/main.35cb80a5.css.map",
+    "main.21b188db.js.map": "/static/js/main.21b188db.js.map"
   },
   "entrypoints": [
-    "static/css/main.f737f05e.css",
-    "static/js/main.5bb3d285.js"
+    "static/css/main.35cb80a5.css",
+    "static/js/main.21b188db.js"
   ]
 }
